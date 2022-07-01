@@ -1,0 +1,13 @@
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\bin\Debug\Traverse  Survey Calculator.exe.config
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\bin\Debug\Traverse  Survey Calculator.exe
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\bin\Debug\Traverse  Survey Calculator.pdb
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\bin\Debug\Traverse  Survey Calculator.xml
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\obj\Debug\Traverse  Survey Calculator.vbproj.AssemblyReference.cache
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\obj\Debug\Traverse__Survey_Calculator.Form1.resources
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\obj\Debug\Traverse__Survey_Calculator.Resources.resources
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\obj\Debug\Traverse  Survey Calculator.vbproj.GenerateResource.cache
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\obj\Debug\Traverse  Survey Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\obj\Debug\Traverse  Survey Calculator.exe
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\obj\Debug\Traverse  Survey Calculator.xml
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\obj\Debug\Traverse  Survey Calculator.pdb
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse  Survey Calculator\Traverse  Survey Calculator\obj\Debug\Traverse__Survey_Calculator.Form2.resources
